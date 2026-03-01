@@ -50,7 +50,7 @@ body {
 
 /* DASHBOARD */
 .dashboard {
-  min-height: 40vh;
+  min-height: 80vh;
   padding: 60px 50px 120px;
   position: relative;
 }
@@ -218,7 +218,6 @@ button {
     gap: 10px;
   }
 }
-
 
 @media (max-width: 600px) {
   .hero h1 {
