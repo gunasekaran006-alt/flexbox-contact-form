@@ -186,10 +186,15 @@ button {
   cursor: pointer;
 }
 
-.social span {
-  margin-right: 10px;
+.social a {
+  color: white;
   font-size: 18px;
-  cursor: pointer;
+  margin-right: 12px;
+  transition: 0.3s;
+}
+
+.social a:hover {
+  color: #22d3ee;
 }
 
 .footer-bottom {
