@@ -30,6 +30,12 @@ body {
   opacity: 0.85;
 }
 
+/*AI idea*/
+/*It would be convenient for the user if the links in the navigation menu were highlighted when hovered over.*/
+.navbar li:hover { 
+  opacity: 1; 
+  transition: 0.3s; }
+
 /* HERO */
 .hero {
   text-align: center;
